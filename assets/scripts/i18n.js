@@ -517,11 +517,9 @@ translations.en.about = {
     teamTitle: "Meet the Creators",
     teamDesc:
         "We are Titan, united by a vision: to transform Latin American livestock farming through quality technological applications.",
-    teamRole1: "Team Leader",
-    teamRole2: "Full Stack Developer",
-    teamRole3: "Frontend Developer",
-    teamRole4: "Backend Developer",
-    teamRole5: "Backend Developer",
+    teamRole1: "Team Member",
+    teamRole2: "Team Leader",
+    teamRole3: "Team Member",
     ideaTitle: "Do you have an idea?",
     ideaDesc: "We are always open to new collaborations and ideas.",
     contactUs: "Contact Us",
@@ -545,11 +543,9 @@ translations.en.about = {
     ctaDesc: "Join +500 ranchers and +120 veterinarians who already trust AniTec.",
   ctaStartFree: "Start Now",
   ctaSeeHow: "See How It Works",
-    bio1: "Passionate about UX/UI design. Natural leader with excellent communication and teamwork skills.",
-    bio2: "Full stack developer with experience in React, Node.js and cloud technologies. Focused on building scalable and efficient solutions.",
-    bio3: "Frontend developer with a passion for creating intuitive and attractive user interfaces. Skilled in React and design tools.",
-    bio4: "Backend developer specialized in database management and API development. Experienced in Node.js and SQL.",
-    bio5: "Backend developer focused on security and performance. Experienced in cloud infrastructure and microservices.",
+    bio1: "Software Engineering student at UPC and member of the Titan team. Works on AniTec's product definition and Lean UX.",
+    bio2: "Software Engineering student at UPC and leader of the Titan team. Works on AniTec's backend, frontend and deployment.",
+    bio3: "Software Engineering student at UPC and member of the Titan team. Works on AniTec's requirements, user stories and backlog.",
 };
 
 translations.es.about = {
@@ -581,11 +577,9 @@ translations.es.about = {
   teamSubtitle: "El Equipo",
   teamTitle: "Conoce a los Creadores",
   teamDesc: "Somos Titan, unidos por una visión: transformar la ganadería latinoamericana mediante aplicaciones tecnológicas de calidad.",
-  teamRole1: "Líder de Equipo",
-  teamRole2: "Desarrollador Full Stack",
-  teamRole3: "Desarrollador Frontend",
-  teamRole4: "Desarrollador Backend",
-  teamRole5: "Desarrollador Backend",
+  teamRole1: "Integrante del Equipo",
+  teamRole2: "Líder de Equipo",
+  teamRole3: "Integrante del Equipo",
   ideaTitle: "¿Tienes una idea?",
   ideaDesc: "Siempre estamos abiertos a nuevas colaboraciones e ideas.",
   contactUs: "Contáctenos",
@@ -608,11 +602,9 @@ translations.es.about = {
   ctaDesc: "Únete a +500 ganaderos y +120 veterinarios que ya confían en AniTec.",
   ctaStartFree: "Comienza",
   ctaSeeHow: "Ver Cómo Funciona",
-  bio1: "Apasionada por el diseño UX/UI. Líder natural con excelentes habilidades de comunicación y trabajo en equipo.",
-  bio2: "Desarrollador full stack con experiencia en React, Node.js y tecnologías cloud. Enfocado en construir soluciones escalables y eficientes.",
-  bio3: "Desarrollador frontend con pasión por crear interfaces de usuario intuitivas y atractivas. Hábil en React y herramientas de diseño.",
-  bio4: "Desarrollador backend especializado en gestión de bases de datos y desarrollo de APIs. Experimentado en Node.js y SQL.",
-  bio5: "Desarrollador backend enfocado en seguridad y rendimiento. Experimentado en infraestructura cloud y microservicios."
+  bio1: "Estudiante de Ingeniería de Software de la UPC e integrante del equipo Titan. Trabaja en la definición del producto y el Lean UX de AniTec.",
+  bio2: "Estudiante de Ingeniería de Software de la UPC y líder del equipo Titan. Trabaja en el backend, el frontend y el despliegue de AniTec.",
+  bio3: "Estudiante de Ingeniería de Software de la UPC e integrante del equipo Titan. Trabaja en los requisitos, las historias de usuario y el backlog de AniTec.",
 };
 
 // Veterinarios page
