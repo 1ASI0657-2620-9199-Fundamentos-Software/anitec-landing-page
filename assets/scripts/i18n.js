@@ -102,10 +102,10 @@ translations.en.metrics = {
   desc2: "Stop searching in notebooks. Find everything in seconds.",
   desc3: "Automatic alerts that help you prevent losses.",
   desc4: "Complies with regulations and access better markets.",
-  stat1: "Management<br />modules",
-  stat2: "User<br />profiles",
-  stat3: "Interface<br />languages",
-  stat4: "Access from<br />any browser"
+  stat1: "Management modules",
+  stat2: "User profiles",
+  stat3: "Interface languages",
+  stat4: "Access from any browser"
 };
 
 translations.es.metrics = {
@@ -120,10 +120,10 @@ translations.es.metrics = {
   desc2: "Deja de buscar en cuadernos. Encuentra todo en segundos.",
   desc3: "Alertas automáticas que te ayudan a prevenir pérdidas.",
   desc4: "Cumple con regulaciones y accede a mejores mercados.",
-  stat1: "Módulos de<br />gestión",
-  stat2: "Perfiles de<br />usuario",
-  stat3: "Idiomas de<br />la interfaz",
-  stat4: "Acceso desde<br />cualquier navegador"
+  stat1: "Módulos de gestión",
+  stat2: "Perfiles de usuario",
+  stat3: "Idiomas de la interfaz",
+  stat4: "Acceso desde cualquier navegador"
 };
 
 // Index - Features
@@ -295,9 +295,9 @@ translations.en.ranchers = {
   feat2: "Automatic vaccine alerts",
   feat3: "Detailed financial reports",
   feat4: "Complete reproduction control",
-  stat1: "Management<br />modules",
-  stat2: "Interface<br />languages",
-  stat3: "Access from<br />any browser",
+  stat1: "Management modules",
+  stat2: "Interface languages",
+  stat3: "Access from any browser",
   viewBenefits: "View Benefits",
   tryFree: "View Plans",
   benefitsTitle: "Why AniTec for Ranchers?",
@@ -393,9 +393,9 @@ translations.es.ranchers = {
   feat2: "Alertas automáticas de vacunas",
   feat3: "Informes financieros detallados",
   feat4: "Control reproductivo completo",
-  stat1: "Módulos de<br />gestión",
-  stat2: "Idiomas de<br />la interfaz",
-  stat3: "Acceso desde<br />cualquier navegador",
+  stat1: "Módulos de gestión",
+  stat2: "Idiomas de la interfaz",
+  stat3: "Acceso desde cualquier navegador",
   viewBenefits: "Ver Beneficios",
   tryFree: "Ver Planes",
   benefitsTitle: "¿Por qué AniTec para Ganaderos?",
@@ -617,9 +617,9 @@ translations.en.vets = {
   feat2: "Real-time synchronization",
   feat3: "Herd health reports",
   feat4: "Medication inventory management",
-  stat1: "User<br />profiles",
-  stat2: "Interface<br />languages",
-  stat3: "Access from<br />any browser",
+  stat1: "User profiles",
+  stat2: "Interface languages",
+  stat3: "Access from any browser",
   viewBenefits: "View Benefits",
   tryFree: "View Plans",
   benefitsTitle: "Why AniTec for Veterinarians?",
@@ -699,9 +699,9 @@ translations.es.vets = {
   feat2: "Sincronización en tiempo real",
   feat3: "Informes de salud del hato",
   feat4: "Gestión de inventario de medicamentos",
-  stat1: "Perfiles de<br />usuario",
-  stat2: "Idiomas de<br />la interfaz",
-  stat3: "Acceso desde<br />cualquier navegador",
+  stat1: "Perfiles de usuario",
+  stat2: "Idiomas de la interfaz",
+  stat3: "Acceso desde cualquier navegador",
   viewBenefits: "Ver Beneficios",
   tryFree: "Ver Planes",
   benefitsTitle: "¿Por qué AniTec para Veterinarios?",
